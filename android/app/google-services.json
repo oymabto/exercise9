@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "227603349212",
+    "firebase_url": "https://fir-flutter-codelab-7c74a-default-rtdb.firebaseio.com",
+    "project_id": "fir-flutter-codelab-7c74a",
+    "storage_bucket": "fir-flutter-codelab-7c74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227603349212:android:00348b4af12d22d24f3e19",
+        "android_client_info": {
+          "package_name": "com.example.exercise8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227603349212-2auge7po4s2noqb2obiov9qm5o3insm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4hXLqNrP9fEPEUTQqDN_JF8e2xuhdzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227603349212-2auge7po4s2noqb2obiov9qm5o3insm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227603349212-2n2632psa6ada7cahasfp86cosiqhdro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exercise8.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227603349212:android:1399d20ca33918c34f3e19",
+        "android_client_info": {
+          "package_name": "com.example.exercise9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227603349212-2auge7po4s2noqb2obiov9qm5o3insm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4hXLqNrP9fEPEUTQqDN_JF8e2xuhdzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227603349212-2auge7po4s2noqb2obiov9qm5o3insm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227603349212-2n2632psa6ada7cahasfp86cosiqhdro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exercise8.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
